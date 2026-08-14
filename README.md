@@ -1,14 +1,10 @@
-## Hi there 👋
-# 🚀 Hi, I'm Renan!
+#Renan
+### 🚀 Physics Student | Aerospace & Orbital Mechanics
 
-I am interested in building physical things and programming them to life.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="C" />
-  <img src="https://skillicons.dev" width="45" height="45" alt="MATLAB" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30"/>
 </p>
+
+**Orbital Mechanics · Aerospace · Scientific Computing**
