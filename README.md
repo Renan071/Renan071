@@ -5,6 +5,8 @@
 I'm a Physics student interested in **aerospace engineering, scientific computing,
 simulation, and software development**.
 
+### Languages & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 
 - 🚀 Aerospace & Simulation
