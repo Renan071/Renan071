@@ -7,7 +7,8 @@ simulation, and software development**.
 
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 - 🚀 Aerospace & Simulation
 - 💻 Scientific Computing
