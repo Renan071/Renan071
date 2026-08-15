@@ -7,8 +7,8 @@ simulation, and software development**.
 
 ### Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+<img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C"/>
 
 - 🚀 Aerospace & Simulation
 - 💻 Scientific Computing
